@@ -7,9 +7,9 @@
 This folder contains cleaned and categorized data from https://github.com/gveres/donateacry-corpus
 
 ## Updates to the original
-- All of the data has been converted to CAF or 3GP format with uniform bit and sampling rate of 128 kbps and 8kHz
-- Using DBL (Dunstan Baby Language) categories as reference, data tagged with lonely, scared, and unknown are removed. Additionally data tagged with cold/hot was merged into discomfort.
-- All non-cries data has been removed manually by listening to them. These includes, white noise, baby chat, adult mimicking baby cries. etc.
+- All of the data has been converted to CAF or 3GP format with uniform bit and a sampling rate of 128 kbps and 8kHz
+- Using DBL (Dunstan Baby Language) categories as a reference, data tagged with lonely, scared, and unknown are removed. Additionally, data tagged with cold/hot was merged into discomfort.
+- All non-cries data has been removed manually by listening to them. These include white noise, baby chat, adult mimicking baby cries. etc.
 - All data are put into its respected folder without changing the original filename.
 
 ## File naming convention
