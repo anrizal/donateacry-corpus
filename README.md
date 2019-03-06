@@ -1,3 +1,10 @@
+#Note
+
+<p>This is a fork of the donateacry repository. Our updates are in the donateacry_corpus_cleaned_and_updated_data . The updates we did are listed in the folder's README file</p>
+<p>We created a pull request to the source repo. And it has been merged</p>
+
+
+
 # donateacry-corpus
 An infant cry audio corpus that's being built through the Donate-a-cry campaign - see http://donateacry.com
 
@@ -5,7 +12,7 @@ An infant cry audio corpus that's being built through the Donate-a-cry campaign 
 This repository contains user-uploaded audio samples in their original, unmodified, unchecked form. The audio samples were uploaded using the Donate-a-cry mobile applications for Android and iOS.
 
 ## Using the files
-The database is published under the ODbL, see below. If you work with the corpus in any way, please drop us a line at hello@newparentsapps.com 
+The database is published under the ODbL, see below. ~~If you work with the corpus in any way, please drop us a line at hello@newparentsapps.com~~ . We tried to contact the email mentioned in the parent repo, but it bounces.
 
 ## File naming convention
 The audio files should contain baby cry samples, with the corresponding tagging information encoded in the filenames. The samples were tagged by the contributors themselves. So here's how to parse the filenames.
